@@ -8,9 +8,9 @@ My goal is to work through this notebook to help the company understand if they 
 Calculate the observed statistics, that is the propability of conversion from the control and experimental group. Control group is given the old page, and experimental group is given the new page.
 
 ### Part 2 : A/B Test
-Define the hypothesis: 
-$$H_0: p_{new} - p_{old} \leq 0 $$
-$$H_1: p_{new} - p_{old} > 0 $$
+Define the hypothesis:  
+$H_0: p_{new} - p_{old} \leq 0$
+$H_1: p_{new} - p_{old} > 0$
 
 Simulate the sampling distribution for difference in **converted** between the two pages under the null. Compute the p-value to determine the statistical significance of the observed difference statistics. 
 
