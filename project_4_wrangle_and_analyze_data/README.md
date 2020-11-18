@@ -35,6 +35,7 @@ I would like to conclude by listing down what I have learnt in this project:
 - Writing and reading Twitter JSON data.
 - Data wrangling by gathering data from various sources, assessing data to detect data quality issues and data tidiness issues, and cleaning data. 
 
+[linkedin post:](https://www.linkedin.com/pulse/weratedogs-gim-pei-ng)
 
 ```python
 
