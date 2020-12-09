@@ -2,7 +2,7 @@
 
 ## Dataset
 
-New York city launched [Citi Bike](https://www.citibikenyc.com/how-it-works)), the largest bike share program in the United States, in May 2013. It is now with 14,500 bikes and 950 station across Manhattan, Brooklyn, Queens and Jersey City. It was designed for quick trips with convenience in mind, and it's a fun and afforadable way to get around the town.
+New York city launched [Citi Bike](https://www.citibikenyc.com/how-it-works), the largest bike share program in the United States, in May 2013. It is now with 14,500 bikes and 950 station across Manhattan, Brooklyn, Queens and Jersey City. It was designed for quick trips with convenience in mind, and it's a fun and afforadable way to get around the town.
 
 The data available for download via the [system data](https://www.citibikenyc.com/system-data) includes information about individual rides made in the bike-sharing system like trip duration, start and end station, user type, gender and etc.
 
